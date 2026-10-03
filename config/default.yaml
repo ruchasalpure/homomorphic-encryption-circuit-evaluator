@@ -1,6 +1,0 @@
-app:
-  name: "homomorphic-encryption-circuit-evaluator"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

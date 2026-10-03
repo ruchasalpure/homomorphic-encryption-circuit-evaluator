@@ -1,8 +1,0 @@
-{
-  "agent_id": "homomorphic-encryption-circuit-evaluator",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
